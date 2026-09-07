@@ -29,7 +29,7 @@ const branches: Branch[] = [
     id: "dharamkot",
     name: "Dharamkot",
     subtitle: "Freshly baked in the hills",
-    address: "Dharamkot, Himachal Pradesh",
+    address: "Dharamkot,Punjab",
     image: "/images/dharamkot-store.jpg",
   },
   {
