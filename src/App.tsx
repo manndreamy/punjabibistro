@@ -28,14 +28,14 @@ const branches: Branch[] = [
   {
     id: "dharamkot",
     name: "Dharamkot",
-    subtitle: "Freshly baked in the hills",
+    subtitle: "Freshly baked",
     address: "Dharamkot,Punjab",
     image: "/images/dharamkot-store.jpg",
   },
   {
     id: "zira",
     name: "Zira",
-    subtitle: "Your neighbourhood bakery",
+    subtitle: "Freshly baked",
     address: "Zira, Punjab",
     image: "/images/zira-store.jpg",
   },
